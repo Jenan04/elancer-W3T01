@@ -1,0 +1,17 @@
+{
+    "name": "jenan/book-management",
+    "description": "library sys assignmnt using PHP OOP and traits",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jenan04",
+            "email": "jenanyasser1@gmail.com"
+        }
+    ],
+    "require": {}
+}
