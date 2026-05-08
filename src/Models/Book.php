@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Modles;
+namespace App\Models;
 
-use App\Traits\Timestampable;
+use App\Traits\TimeStampable;
 use App\Contracts\Discountable;
 class Book implements Discountable{
 
